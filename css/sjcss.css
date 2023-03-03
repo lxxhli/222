@@ -1,0 +1,212 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+		margin: 0;
+		padding: 0;
+	}
+	div{
+		width: 100%;
+		height: 900px;
+	}
+	#syl{
+		height: 6%;
+		width: 100%;
+		background: #DEDEDE;
+		
+	}
+li a img:hover{
+	border: #FF0004 2px solid;
+	transform: scale(1.1);
+}
+	a{
+		text-decoration: none;
+		color: black;
+	}
+	li{
+		list-style: none;
+		padding-top: 16px;
+		float: left;
+		font-family: "宋体";
+		font-size: 12px;
+	}
+	li a:hover{
+		color: red;
+	}
+	select:hover{
+	background:#D9D9D9;
+	
+}
+	.syzt1{
+		margin-left: 3%;
+	}
+	.syzt2{
+		margin-left: 10%;
+	}
+	
+	#sy2{
+		
+		height: 80px;
+		width: 100%;
+		
+	}
+
+	#sy3{
+		text-align: center;
+		margin-left: 5%;
+		padding-right: 6%;
+		display: block;
+		height: 490px;
+		width: 200px;
+		display: flex;
+		
+		
+	}
+	#sy3 li img{
+		width: 194px;
+		height: 270px;
+	}
+	
+	#sy3 li div{
+		width: 200px;
+		height: 20px;
+		font-family:"仿宋";
+		letter-spacing: 4px;
+		margin: 0 30px auto;
+	}
+	#sy6{
+	text-align: center;
+		margin-left: 5%;
+		display: block;
+		height: 490px;
+		width: 220px;
+		display: flex;
+		
+		
+	}
+	#sy6 li img{
+		width: 194px;
+		height: 270px;
+	}
+	
+	#sy6 li div{
+		width: 194px;
+		height: 20px;
+		font-family:"仿宋";
+		letter-spacing: 4px;
+		margin: 0 30px auto;
+	}
+	#sy4{
+		height: 50px;
+		width: 100%;
+		background: #DEDEDE;
+		position: absolute;
+		margin-top: 6%;
+		
+	}
+	#sy5{
+		text-align: center;
+		margin-left: 5%;
+		display: block;
+		height: 490px;
+		width: 220px;
+		display: flex;
+		
+		
+	}
+	#sy5 li img{
+		width: 194px;
+		height: 270px;
+	}
+	
+	#sy5 li div{
+		width: 194px;
+		height: 20px;
+		font-family:"仿宋";
+		letter-spacing: 4px;
+		margin: 0 30px auto;
+	}
+	.zt{
+		width: 200px;
+		height: 200px;
+		margin-top: 10px;
+	}
+	.ssk{
+		width: 620px;
+		height: 42px;
+		border: 3px #FF8730 solid;
+		border-radius: 8px;
+		letter-spacing:4px;
+		text-indent: 2em;
+		position: relative;
+		top: 11px;
+		
+		
+	}
+	.ssan{
+		width: 80px;
+		height: 45px;
+		position: relative;
+		top: 13.8px;
+		color: aliceblue;
+		font-weight: bolder;
+		background: #FF8730;
+		border: #FFFFFF 1px;
+		border-radius: 6px;
+		font-size: 18px;
+	}
+	.jj{
+		font-size: 14px;
+		text-indent: 1em;
+	}
+	.jg{
+		font-size: 18px;
+		float: none;
+		position:relative;
+		right: 36px;
+	}
+	.xl{
+		position:relative;
+		left: 46px;
+		font-size: 9px;
+		font-family: "方正姚体";
+		font-style: italic;
+}
+	
+	hr{
+		width: 194px;
+	}
+	.xhx{
+		border: 2px #DADADA solid;
+		width: 100px auto;
+	}
+	.hd{
+		margin-left: 15px;
+		font-size: 12px;
+		color: #9B9B9B;
+		text-decoration:line-through;
+		font-family: "黑体";
+	}
+a input:hover{
+	background: #FFBB8A;
+}
+	a input:active{
+		background:#1C1C1C;
+	}
+.bt{
+	width: 180px;
+	position: relative;
+	left: 20px;
+	top: 4px;
+}
+.gg{
+	width: 90px;
+	height: 80px;
+	margin-left: 18px;
+}
+hr{
+	margin-left: 33px;
+	border: #DADADA 0.5px solid; 
+}
+img{
+	border-radius: 6px;
+}
